@@ -9,6 +9,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 ## Test commit to Github Desktop
 
+## Test RStudio Updates to Github Desktop
+
 ## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
